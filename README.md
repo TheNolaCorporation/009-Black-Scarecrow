@@ -1,7 +1,8 @@
 #黒かかし ( Kuro Kakashi )
-The Grey Market
+##[26.2334.0]
+###グレーマーケット
 
-#Hashes ( bytes: 32 )
+#ハッシュ ( バイト: 32 )
 md2: b5ba6690e5a47da8121e21ca2a79f68b
 md4: b93c93ea6807615cf66ca0a8ac4a3f95
 md5: 75d9fa3a04772cdebbd80aed211b1d06
